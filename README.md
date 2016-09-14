@@ -1,4 +1,4 @@
-# MysqlCexemploagenda
+# agenda_mysql_c
 Agenda em C com Mysql
 
 Para quem esta aprendendo C, tem um exemplo de como usar o Mysql com a linguagem c.
